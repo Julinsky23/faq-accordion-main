@@ -23,7 +23,7 @@ Users should be able to:
 ### Screenshot
 **Mobile Version**
 ![](./solution-pictures/faq-mobile-version-1.png = 100x200) 
-<img src="Assets/icon.png" width="200">
+<img src="./solution-pictures/faq-mobile-version-1.png" width="200">
 ![](./solution-pictures/faq-mobile-version-2.png)
 ![](./solution-pictures/faq-mobile-version-3.png)
 **Desktop Version**
