@@ -22,7 +22,9 @@ Users should be able to:
 
 ### Screenshot
 **Mobile Version**
-![](./screenshot.jpg)
+![](./solution-pictures/faq-mobile-version-1.png) 
+![](./solution-pictures/faq-mobile-version-2.png)
+![](./solution-pictures/faq-mobile-version-3.png)
 **Desktop Version**
 ![](./screenshot.jpg)
 ## My process
